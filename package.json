@@ -1,0 +1,19 @@
+{
+  "name": "liveit",
+  "version": "1.0.0",
+  "description": "Command line application for live it",
+  "main": "app.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "author": "Hitesh Joshi <me@hiteshjoshi.com> (http://hiteshjoshi.com)",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hiteshjoshi/livetest.io-nodejs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hiteshjoshi/livetest.io-nodejs/issues"
+  },
+  "homepage": "https://github.com/hiteshjoshi/livetest.io-nodejs#readme"
+}
